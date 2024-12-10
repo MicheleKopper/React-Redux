@@ -1,3 +1,9 @@
+## Atividade Redux
+
+A aplicação é um site de controle de dinheiro que permite o registro de transações de entrada e saída, exibe a lista de entradas e saídas, e apresenta o saldo atual da conta.
+
+![01](src/assets/registro%20de%20transacoes.jpg)
+
 ## Setup - Redux
 
 01 - Sazer setup do React - MUI Material
